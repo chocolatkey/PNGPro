@@ -4,7 +4,7 @@ A simple VB.NET wrapper for the oxipng CLI.
 PNGPro makes it easy to optimize many files with `oxipng -4` by allowing you to drag and drop (or choose from the file chooser)
 many PNGs and queue them for optimization.
 
-There are no plans to make this program complex, it is simply a way to run `oxipng -r *.png` for less technical users
+There are no plans to make this program complex, it is simply a way to run `oxipng -4 *.png` for less technical users
 
 ## Usage
 
